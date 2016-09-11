@@ -1,0 +1,41 @@
+{
+    "portfolios": [
+        {
+            "id": 0,
+            "name": "APPL",
+            "date": "2016-01-08"
+        },
+        {
+            "id": 1,
+            "name": "GOOGL",
+            "date": "2016-04-13"
+        },
+        {
+            "id": 2,
+            "name": "ALZA",
+            "date": "2016-12-18"
+        },
+        {
+            "id": 3,
+            "name": "BAUX",
+            "date": "2017-01-18"
+        }
+    ],
+    "clients": [
+        {
+            "id": 0,
+            "name":"Commerzbank",
+            "contact": "Mark.Sieber@commerzbank.com"
+        },
+         {
+            "id": 1,
+            "name":"Barclays ",
+            "contact": "Frederick.Meverick@barclays.co.uk"
+        },
+          {
+            "id": 2,
+            "name":"Northern thrust",
+            "contact": "nt123@northernthrust.co.hk"
+        }
+    ]
+}

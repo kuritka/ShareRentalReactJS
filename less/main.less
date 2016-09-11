@@ -1,0 +1,35 @@
+@navigationFontSize: 1em;
+@buttonHover: #edf9ff;
+
+
+.row{
+    margin-left:0;
+    margin-right:0;
+}
+   
+
+.navigation {
+	position: relative;
+}
+
+.navigation > ul {
+	list-style: none;
+	display: block;
+	margin: 0 auto;
+}
+
+.navigation > ul >li {
+	margin-top: 9px;
+	float: left;
+	padding-left: 21px;
+}
+
+.navigation > ul > li > a {
+    color: #000;-ms-opacity:0.6; opacity:0.6; font-size: @navigationFontSize; text-decoration: none; font-family: 'Poiret One', cursive;
+}
+
+
+.navigation > ul > li > a.active {
+    color: #000;-ms-opacity:1;opacity:1; border-bottom: 2px solid #fff;}
+
+.navigation > ul > li > a:hover {color: blue;-ms-opacity:1;opacity:1;   }
